@@ -18,7 +18,7 @@ print("email :", email)
 print("Age :", age)
 print("Percentage:", percentage)
 
-# lets print type of data 
+# lets print types of data 
 print("Entered data type:")
 print(type(name))
 print(type(email))
