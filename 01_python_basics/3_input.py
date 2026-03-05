@@ -24,3 +24,4 @@ print(type(name))
 print(type(email))
 print(type(age))
 print(type(percentage))
+
